@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jh/PxmHT6bKB5N+a99jNBGS42KbUiVdmfR4jVAZHgCnCugdsEh8drjPWezcweW5JUTANJ4Jr14M8wNAuW5jL4g==",
+  "success": true,
+  "projectFilePath": "F:\\FPT University\\Semester 7\\PRN221\\Excercise\\Assignments\\Assignment_01\\Ass01Solution\\StoreManagement\\StoreManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
